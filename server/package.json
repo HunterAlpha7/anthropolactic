@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for blog test project",
+  "keywords": [
+    "blog",
+    "MERN",
+    "API",
+    "backend"
+  ],
+  "homepage": "https://github.com/HunterAlpha7/anthropolactic#readme",
+  "bugs": {
+    "url": "https://github.com/HunterAlpha7/anthropolactic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterAlpha7/anthropolactic.git"
+  },
+  "license": "ISC",
+  "author": "AlphaClassHunter",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
